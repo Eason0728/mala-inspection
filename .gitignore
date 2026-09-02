@@ -1,0 +1,9 @@
+# GitHub Pages 只發布前端網頁。以下不進公開 repo：
+apps-script/            # 後端 Code.gs（含通行碼預設）與 .clasp.json，改後端走 clasp
+docs/                   # 需求/規格/計畫/任務文件
+部署雲端步驟.md
+build-single.js
+營運巡檢-本機測試版.html   # 內嵌單檔（含 /exec 網址），不公開
+開啟巡檢App.command
+.DS_Store
+node_modules/
